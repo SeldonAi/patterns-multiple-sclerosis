@@ -1,4 +1,4 @@
-# # Analysis of Gene Expression Patterns in Multiple Sclerosis
+## Analysis of Gene Expression Patterns in Multiple Sclerosis
 This project was conducted as part of the Master's degree in Computer Science at the University of Pisa, under the course "Computation Health Laboratory" (755AA) by Prof. Corrado Priami for the academic year 2023-2024.
 
 ## Team Members
