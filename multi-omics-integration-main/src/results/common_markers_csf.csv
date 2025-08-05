@@ -1,8 +1,0 @@
-Cell Type,Common Markers
-B cells,{'MEF2C'}
-DC,set()
-HSC/MPP,{'MGAT4C'}
-ILC,"{'FCER1G', 'TYROBP'}"
-Monocytes,"{'FAM209A', 'CASS4', 'AL359475.1'}"
-Plasma cells,"{'AC093732.2', 'FAM209A', 'AC105389.2', 'AL391730.2', 'LINC01716', 'CASS4', 'BX649632.1'}"
-T cells,"{'ATP8B2', 'DGKA', 'SYNE2', 'GZMK', 'TSHZ2', 'PDE3B', 'CD69', 'KLRG1'}"
